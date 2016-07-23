@@ -1,4 +1,4 @@
-YOUR_PHONE_NUMBER = raw_input("PhoneNumber -----> ")
+YOUR_PHONE_NUMBER = raw_input("WhatsappLogin -----> ")
 fo = open("YOUR_PHONE_NUMBER.txt","w")
 fo.write(YOUR_PHONE_NUMBER)
 fo.close()
