@@ -6,6 +6,7 @@ NoWhatsapp is for you !
 
 NoWhatsapp is a Whatsapp-Bot that will receive all the messages sent to you and will forward them to you via SMS on your mobile. Your friends get to know that message has reached you by the blue-ticks(as usual). 
 
+
 ###Requirements
 
 1. Python2.7 or Python3.4
@@ -15,6 +16,7 @@ NoWhatsapp is a Whatsapp-Bot that will receive all the messages sent to you and 
 3. Install yowsup2 by: 
 
             $ sudo pip install yowsup2
+
 
 ###QuickStart
 
@@ -66,7 +68,11 @@ You will be asked about :
 
           Way2SMSPassword -----> goru
           
-
+(e). PhoneNumber -----> the-number-on-which-you-want-to-receive-sms
+  
+          PhoneNumber -----> 9569252871
+          
+          
 ###Usage
 
 1. Whenever you'll execute:
